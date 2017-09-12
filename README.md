@@ -1,4 +1,4 @@
-# OS_project
+# OS_project(javaFX)
 LAN messenger to send text and pictures!
 
 ```Make a folder namely 'OsLab' and Extract all files there.```
